@@ -6,7 +6,7 @@
 
 
 
-## Built With 🌩️
+## Built With 
 
 - React
 - TailwindCSS
@@ -18,7 +18,7 @@
 
 
 
-## Getting Started ☀️
+## Getting Started 
 
 To get a local copy up and running follow these simple example steps.
 
@@ -83,7 +83,5 @@ While inside the foodie/backend, run `yarn dev`. This will open a development se
 
 
 
-## Author
 
- **Keerthi**
 
